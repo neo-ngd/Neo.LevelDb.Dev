@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>neo.leveldb.dev</id>
+    <version>1.0.0</version>
+    <authors>SL</authors>
+    <owners>SL</owners>
+    <projectUrl>https://github.com/Ashuaidehao/Neo.LevelDb.Dev</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Leveldb dynamic library package(dll,so,dylib) </description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>leveldb</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
