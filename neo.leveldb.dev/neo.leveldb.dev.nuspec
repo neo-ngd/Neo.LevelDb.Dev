@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>neo.leveldb.dev</id>
-    <version>1.22</version>
+    <version>1.23</version>
     <authors>SL</authors>
     <owners>SL</owners>
     <projectUrl>https://github.com/Ashuaidehao/Neo.LevelDb.Dev</projectUrl>
