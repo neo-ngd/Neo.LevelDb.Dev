@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>LevelDBStore.Plugin</id>
+    <version>3.6.3</version>
+    <title>Neo LevelDBStore Plugins</title>
+    <authors>SL</authors>
+    <owners>SL</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/Ashuaidehao/Neo.LevelDb.Dev.git</projectUrl>
+    <description>Neo LevelDBStore Plugins for developers.</description>
+    <dependencies>
+      <dependency id="neo.leveldb.dev" version="3.0.0-pre5" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/any/Plugins/LevelDBStore/LevelDBStore.dll" buildAction="None" copyToOutput="true" />
+    </contentFiles>
+  </metadata>
+</package>
