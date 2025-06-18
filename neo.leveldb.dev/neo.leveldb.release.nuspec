@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>neo.leveldb.dev</id>
-    <version>1.23</version>
-    <authors>SL</authors>
-    <owners>SL</owners>
-    <projectUrl>https://github.com/Ashuaidehao/Neo.LevelDb.Dev</projectUrl>
+    <id>ngd.leveldb.release</id>
+    <version>2.0</version>
+    <authors>Ngd</authors>
+    <owners>Ngd</owners>
+    <projectUrl>https://github.com/neo-ngd/Neo.LevelDb.Dev</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Leveldb dynamic library package(dll,so,dylib) </description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright 2019</copyright>
+    <copyright>Copyright 2025 Ngd</copyright>
     <tags>leveldb</tags>
     <dependencies>
     </dependencies>
